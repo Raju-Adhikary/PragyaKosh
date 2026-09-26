@@ -1,0 +1,21 @@
+# Zephyr & West build directories
+build/
+.west/
+bootloader/
+zephyr/
+
+# Edge Impulse / Compiled C++ objects
+*.o
+*.a
+src/ml/trained_model/build/
+
+# Python tooling & datasets
+__pycache__/
+*.pyc
+scripts/data/*.csv
+scripts/data/*.json
+
+# CAD / OS temporary files
+*.kicad_pcb-bak
+*.bck
+.DS_Store
