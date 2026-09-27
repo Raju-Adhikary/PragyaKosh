@@ -14,13 +14,6 @@
 > **⚠️ Development Notice:** This project is under active concept design and early development. Hardware schematics, firmware modules, pinouts, and machine-learning architectures are preliminary and subject to change during prototyping and validation.
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 **PragyaKosh** is an Edge-AI battery health and monitoring platform designed around the **Nordic Semiconductor nRF54LM20 DK**. By combining multi-sensor data acquisition with on-device intelligence, the project explores early predictive indicators of battery degradation, cell swelling, and thermal risks before critical failures occur.
 
 ---
