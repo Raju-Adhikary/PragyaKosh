@@ -90,4 +90,4 @@ nrf54-predictive-bms/
 
 ## 📜 License
 
-This project is licensed under the terms specified in the [`LICENSE`](LICENSE.md) file.
+This project is licensed under the terms specified in the [`LICENSE`](LICENSE) file.
